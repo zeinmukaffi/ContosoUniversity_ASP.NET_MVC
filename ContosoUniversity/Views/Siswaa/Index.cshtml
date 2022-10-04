@@ -1,0 +1,89 @@
+﻿@model ContosoUniversity.ViewModels.StudentSearch
+
+@{
+    ViewBag.Title = "Data Mahasiswa";
+    List<ContosoUniversity.Models.Student> students = ViewBag.students;
+}
+
+<h2>Data Mahasiswa</h2>
+
+
+@using (Html.BeginForm("IndexProses", "Siswaa", FormMethod.Get))
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div style="display:flex;">
+
+            @*<===== first name search =====>*@
+            <p style="margin-right: 5px; margin-top: 5px;">Cari Nama Depan :</p>
+            <p>@Html.EditorFor(model => model.FirstMidName)</p>
+            @Html.ValidationMessageFor(model => model.FirstMidName, "", new { @class = "text-danger" })
+            
+            @*<===== last name search =====>*@
+            <p style="margin-right: 5px; margin-top: 5px; margin-left: 5px;">Cari Nama Belakang :</p>
+            <p>@Html.EditorFor(model => model.LastName)</p>
+            @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+
+            @*<===== date search from =====>*@
+            <p style="margin-right: 5px; margin-top: 5px; margin-left: 5px;">Cari dari Tanggal :</p>
+            <p>@Html.EditorFor(model => model.EnrollmentDateFrom, new { @type = "date" })</p>
+            @Html.ValidationMessageFor(model => model.EnrollmentDateFrom, "", new { @class = "text-danger" })
+
+            @*<===== date search until =====>*@
+            <p style="margin-right: 5px; margin-top: 5px; margin-left: 10px;">Sampai :</p>
+            <p>@Html.EditorFor(model => model.EnrollmentDateUntil, new { @type = "date" })</p>
+            @Html.ValidationMessageFor(model => model.EnrollmentDateUntil, "", new { @class = "text-danger" })
+
+            @*<===== tombol search =====>*@
+            <p><input class="btn btn-info btn-sm" type="submit" style="margin-left: 5px;" value="Cari" /></p>
+        </div>
+
+            @*<===== tombol reset =====>*@
+            <a style="margin-top: 5px; margin-left:5px;" href="@Url.Action("Index")">Kembali Ke List Awal</a>
+    </div>
+}
+
+<a href="@Url.Action("Create")" style="margin-bottom: 10px; margin-top: 10px;" class="btn btn-info">Tambah Data [+]</a>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>
+            @Html.ActionLink("Nama Depan", "IndexProses", new { sortOrder = ViewBag.NameSortParm, FirstMidName = Model.FirstMidName, LastName = Model.LastName, EnrollmentDateFrom = Model.EnrollmentDateFrom, EnrollmentDateUntil = Model.EnrollmentDateUntil })
+        </th>
+        <th>
+            @Html.ActionLink("Nama Belakang", "IndexProses", new { sortOrder = ViewBag.LastSortParm, FirstMidName = Model.FirstMidName, LastName = Model.LastName, EnrollmentDateFrom = Model.EnrollmentDateFrom, EnrollmentDateUntil = Model.EnrollmentDateUntil })
+        </th>
+        <th>
+            @Html.ActionLink("Tanggal Pendaftaran", "IndexProses", new { sortOrder = ViewBag.DateSortParm, FirstMidName = Model.FirstMidName, LastName = Model.LastName, EnrollmentDateFrom = Model.EnrollmentDateFrom, EnrollmentDateUntil = Model.EnrollmentDateUntil })
+        </th>
+        <th>Opsi</th>
+    </tr>
+
+    @foreach (var item in students)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstMidName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnrollmentDate)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit", new { id=item.ID })" class="btn btn-warning btn-sm">Edit</a>
+                <a href="@Url.Action("Details", new { id=item.ID })" class="btn btn-info btn-sm">Detail</a>
+                <a href="@Url.Action("Delete", new { id=item.ID })" class="btn btn-danger btn-sm">Hapus</a>
+            </td>
+        </tr>
+    }
+</table>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

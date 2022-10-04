@@ -1,0 +1,77 @@
+﻿@model ContosoUniversity.ViewModels.EnrollmentSearch
+
+@{
+    ViewBag.Title = "Pendaftaran";
+    List<ContosoUniversity.Models.Enrollment> enroll = ViewBag.enrollments;
+}
+
+<h2>Pendaftaran</h2>
+
+@using (Html.BeginForm("IndexProses", "Pendaftaran", FormMethod.Get))
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div style="display:flex;">
+
+            @*<===== title search =====>*@
+            <p style="margin-right: 5px; margin-top: 5px;">Cari Mata Kuliah :</p>
+            <p>@Html.EditorFor(model => model.Title)</p>
+            @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+
+            @*<===== name search =====>*@
+            <p style="margin-right: 5px; margin-top: 5px; margin-left: 5px;">Cari Nama Mahasiswa</p>
+            <p>@Html.EditorFor(model => model.Nama)</p>
+            @Html.ValidationMessageFor(model => model.Nama, "", new { @class = "text-danger" })
+
+            @*<===== grade search =====>*@
+            <p style="margin-right: 5px; margin-top: 5px; margin-left: 5px;">Cari Nilai :</p>
+            <p>@Html.EditorFor(model => model.Nilai)</p>
+            @Html.ValidationMessageFor(model => model.Nilai, "", new { @class = "text-danger" })
+
+            @*<===== tombol search =====>*@
+            <p><input class="btn btn-info btn-sm" type="submit" style="margin-left: 5px;" value="Cari" /></p>
+        </div>
+
+        @*<===== tombol reset =====>*@
+        <a style="margin-top: 5px; margin-left:5px;" href="@Url.Action("Index")">Kembali Ke List Awal</a>
+    </div>
+}
+<table class="table table-bordered table-hover" style="margin-top: 10px;">
+    <tr>
+        <th>
+            @Html.ActionLink("Mata Kuliah", "IndexProses", new { sortOrder = ViewBag.TitleSortParm, Title = Model.Title, Nama = Model.Nama, Nilai = Model.Nilai })
+        </th>
+        <th>
+            @Html.ActionLink("Nama Mahasiswa", "IndexProses", new { sortOrder = ViewBag.NameSortParm, Nama = Model.Nama, Title = Model.Title,  Nilai = Model.Nilai })
+        </th>
+        <th>
+            @Html.ActionLink("Nilai", "IndexProses", new { sortOrder = ViewBag.GradeSortParm, Nilai = Model.Nilai, Title = Model.Title, Nama = Model.Nama })
+        </th>
+        <th>Opsi</th>
+    </tr>
+
+    @foreach (var item in enroll)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.FirstMidName)
+                @Html.DisplayFor(modelItem => item.Student.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grade)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit", new { id=item.EnrollmentID })" class="btn btn-warning btn-sm">Edit</a>
+                <a href="@Url.Action("Details", new { id=item.EnrollmentID })" class="btn btn-info btn-sm">Detail</a>
+                <a href="@Url.Action("Delete", new { id=item.EnrollmentID })" class="btn btn-danger btn-sm">Hapus</a>
+            </td>
+        </tr>
+    }
+</table>

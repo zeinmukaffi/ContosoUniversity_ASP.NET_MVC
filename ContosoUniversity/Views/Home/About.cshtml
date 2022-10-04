@@ -1,0 +1,49 @@
+﻿@model PagedList.IPagedList<ContosoUniversity.ViewModels.EnrollmentDateGroup>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Student Statistics";
+}
+
+<h2>Student Statistics</h2>
+
+@using (Html.BeginForm("About", "Home", FormMethod.Get))
+{
+    <p>
+        <small>Find by Enrollment Date</small> @Html.TextBox("searchDate", ViewBag.CurrentFilter as string, ViewBag.CurrentFilter2 as string)
+        <input class="btn btn-info btn-sm" type="submit" value="Search" /> |
+        <small>Find by Student</small> @Html.TextBox("searchCount", ViewBag.CurrentFilter2 as string, ViewBag.CurrentFilter as string)
+        <input class="btn btn-info btn-sm" type="submit" value="Search" />
+    </p>
+    <a href="@Url.Action("About")">Back To Full List</a>
+
+}
+
+<table class="table table-bordered table-hover" style="margin-top: 10px;">
+    <tr>
+        <th>
+            @Html.ActionLink("Enrollment Date", "About", new { sortOrder = ViewBag.DateSortParm, currentFilter = ViewBag.CurrentFilter, currentFilter2 = ViewBag.CurrentFilter2 })
+        </th>
+        <th>
+            @Html.ActionLink("Students", "About", new { sortOrder = ViewBag.StudentSortParm, currentFilter2 = ViewBag.CurrentFilter2, currentFilter = ViewBag.CurrentFilter })
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnrollmentDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentCount)
+            </td>
+        </tr>
+    }
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("About",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

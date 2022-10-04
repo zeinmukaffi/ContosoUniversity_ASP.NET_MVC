@@ -1,0 +1,47 @@
+﻿@model ContosoUniversity.Models.Student
+
+@{
+    ViewBag.Title = "Hapus Data Mahasiswa";
+}
+
+<h2>Hapus Data</h2>
+
+<h4>Apakah Anda Yakin Ingin Menghapus Data Ini?</h4>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.LastName, "Nama Belakang")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.FirstMidName, "Nama Depan")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstMidName)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.EnrollmentDate, "Tanggal Mendaftar")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EnrollmentDate)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        <input type="submit" value="Hapus" class="btn btn-danger" /> 
+        <a href="@Url.Action("Index")" class="btn btn-default">Kembali</a> 
+    </div>
+    }
+</div>

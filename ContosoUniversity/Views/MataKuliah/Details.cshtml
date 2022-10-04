@@ -1,0 +1,66 @@
+﻿@model ContosoUniversity.Models.Course
+
+@{
+    ViewBag.Title = "Detail Matkul";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Course</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.CourseID, "ID Matkul")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CourseID)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.Title, "Mata Kuliah")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.Credits, "SKS")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Credits)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.Enrollments, "Pendaftaran")
+        </dt>
+        <dd>
+            <table class="table">
+                <tr>
+                    <th>Nama Mahasiswa</th>
+                    <th>Nilai</th>
+                </tr>
+                @foreach (var item in Model.Enrollments)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Student.FirstMidName)
+                            @Html.DisplayFor(modelItem => item.Student.LastName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Grade)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href="@Url.Action("Index")" class="btn btn-default">Kembali</a>
+    <a href="@Url.Action("Edit", new { id=Model.CourseID })" class="btn btn-warning">Edit</a>
+</p>

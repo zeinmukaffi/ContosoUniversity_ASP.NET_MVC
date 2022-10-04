@@ -1,0 +1,81 @@
+﻿@model ContosoUniversity.ViewModels.CourseSearch
+
+@{
+    ViewBag.Title = "Mata Kuliah";
+    List<ContosoUniversity.Models.Course> courses = ViewBag.courses;
+}
+
+<h2>Mata Kuliah</h2>
+
+@using (Html.BeginForm("IndexProses", "MataKuliah", FormMethod.Get))
+{
+    @Html.AntiForgeryToken()
+
+        <div>
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div style="display:flex;">
+
+                @*<===== course id search =====>*@
+                <p style="margin-right: 5px; margin-top: 5px;">Cari ID Matkul :</p>
+                <p>@Html.EditorFor(model => model.CourseID)</p>
+                @Html.ValidationMessageFor(model => model.CourseID, "", new { @class = "text-danger" })
+
+                @*<===== title search =====>*@
+                <p style="margin-right: 5px; margin-top: 5px; margin-left: 5px;">Cari Mata Kuliah :</p>
+                <p>@Html.EditorFor(model => model.Title)</p>
+                @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+
+                @*<===== credit search =====>*@
+                <p style="margin-right: 5px; margin-top: 5px; margin-left: 5px;">Cari SKS :</p>
+                <p>@Html.EditorFor(model => model.Credit)</p>
+                @Html.ValidationMessageFor(model => model.Credit, "", new { @class = "text-danger" })
+
+                @*<===== tombol search =====>*@
+                <p><input class="btn btn-info btn-sm" type="submit" style="margin-left: 5px;" value="Cari" /></p>
+            </div>
+
+            @*<===== tombol reset =====>*@
+            <a style="margin-top: 5px; margin-left:5px;" href="@Url.Action("Index")">Kembali Ke List Awal</a>
+        </div>
+}
+<table class="table table-bordered table-hover" style="margin-top: 10px;">
+    <tr>
+        <th>
+            @Html.ActionLink("ID Matkul", "IndexProses", new { sortOrder = ViewBag.CourseIDSortParm, CourseID = Model.CourseID, Title = Model.Title, Credits = Model.Credit })
+        </th>
+        <th>
+            @Html.ActionLink("Mata Kuliah", "IndexProses", new { sortOrder = ViewBag.TitleSortParm, Title = Model.Title, CourseID = Model.CourseID, Credits = Model.Credit })
+        </th>
+        <th>
+            @Html.ActionLink("SKS", "IndexProses", new { sortOrder = ViewBag.CreditSortParm, Credits = Model.Credit, CourseID = Model.CourseID, Title = Model.Title })
+        </th>
+        <th>Opsi</th>
+    </tr>
+
+    @foreach (var item in courses)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CourseID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Credits)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit", new { id=item.CourseID })" class="btn btn-warning btn-sm">Edit</a>
+                <a href="@Url.Action("Details", new { id=item.CourseID })" class="btn btn-info btn-sm">Detail</a>
+                <a href="@Url.Action("Delete", new { id=item.CourseID })" class="btn btn-danger btn-sm">Hapus</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

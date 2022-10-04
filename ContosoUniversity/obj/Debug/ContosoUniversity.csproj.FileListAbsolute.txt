@@ -1,0 +1,261 @@
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe.config
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.rsp
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe.config
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.rsp
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.AppContext.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Console.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Globalization.Calendars.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Http.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Sockets.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.ValueTuple.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe.config
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.rsp
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.AssemblyReference.cache
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+D:\PKL 2022\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe.config
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.rsp
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe.config
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.rsp
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.AppContext.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Console.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Globalization.Calendars.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Http.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Sockets.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.ValueTuple.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe.config
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.rsp
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.AssemblyReference.cache
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\GIT\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe.config
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.rsp
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe.config
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.rsp
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.AppContext.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Console.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Globalization.Calendars.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Http.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Sockets.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.ValueTuple.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe.config
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.rsp
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.AssemblyReference.cache
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\PKL 2022\SilabusTrainingDAC\.Net Framework\Tahap_2\Actual Result\Zein Mukaffi\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb

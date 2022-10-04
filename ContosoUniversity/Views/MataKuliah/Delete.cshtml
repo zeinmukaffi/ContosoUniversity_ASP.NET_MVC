@@ -1,0 +1,41 @@
+﻿@model ContosoUniversity.Models.Course
+
+@{
+    ViewBag.Title = "Hapus Data Matkul";
+}
+
+<h2>Delete</h2>
+<p class="error">@ViewBag.ErrorMessage</p>
+<h4>Apakah Anda Yakin Ingin Menghapus Data Ini?</h4>
+<div>
+    <h4>Course</h4> 
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.Title, "Mata Kuliah")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.Credits, "SKS")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Credits)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <a href="@Url.Action("Index")" class="btn btn-default">Kembali</a> |
+            <input type="submit" value="Hapus" class="btn btn-danger" />
+        </div>
+    }
+</div>

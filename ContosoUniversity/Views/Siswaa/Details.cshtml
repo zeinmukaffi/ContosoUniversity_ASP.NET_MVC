@@ -1,0 +1,64 @@
+﻿@model ContosoUniversity.Models.Student
+
+@{
+    ViewBag.Title = "Detail Data Mahasiswa";
+}
+
+<h2>Detail Data Mahasiswa</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.LastName, "Nama Belakang")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.FirstMidName, "Nama Depan")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstMidName)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.EnrollmentDate, "Tanggal Mendaftar")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EnrollmentDate)
+        </dd>
+        <dt>
+            @Html.LabelFor(model => model.Enrollments, "Detail Pendaftaran")
+        </dt>
+        <dd>
+            <table class="table">
+                <tr>
+                    <th>Mata Kuliah</th>
+                    <th>Nilai</th>
+                </tr>
+                @foreach (var item in Model.Enrollments)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Course.Title)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Grade)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href="@Url.Action("Index")" class="btn btn-default">Kembali</a> |
+    <a href="@Url.Action("Edit", new { id=Model.ID })" class="btn btn-warning">Edit</a>
+
+</p>
